@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻 Desarrollador DAM  <br>🌍 Trabajo remoto | Apps & Code 🚀  <br>🎯 Aprender, crear y compartir 💡 
+👨‍💻 Desarrollador de aplicaciones multiplataforma (DAM) <br>
+💼 Desarrollo software a medida, tanto en equipo como de forma independiente <br>
+🚀 Apasionado por la tecnología, la mejora continua y los retos creativos <br>
+🎯 Siempre aprendiendo, creando y compartiendo ideas 
 
 
 ## 🌐 Socials:
